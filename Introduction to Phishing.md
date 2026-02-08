@@ -10,11 +10,11 @@
 Phishing is the act of attempting to obtain sensitive information from individuals by using social engineering
 tactics over various communication platforms such as email, SMS, phone calls, and the Internet.
 1.Impersonation
-  * Posing as legitimate organizations or individuals
+  * Posing as legitimate organizations or individuals.
 2.Stealing sensitive information
-  * Passwords, credit card numbers, sensitive files
+  * Passwords, credit card numbers, sensitive files.
 3.Deliver and install malware
-  * Via attachments, embedded files, or URLs
+  * Via attachments, embedded files, or URLs.
 4.Exploiting humans
-  * Preys on emotions
-  * Human psychology
+  * Preys on emotions.
+  * Human psychology.
